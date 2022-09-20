@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+}
+.flex-container {
+    display: flex;
+  }
+.hero {
+    display: flex;
+    background-color: #1F2937;
+    height: 320px;
+}
+.welcome{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: extra bold;
+}
